@@ -86,7 +86,7 @@ The dashboard is built on a standard **Superstore Sales Dataset**, including:
 ## 👤 Author
 
 **Mohamed Nofal**  
-Data Analyst – Tableau | Python | SQL  
+Data Analyst – Power BI | Tableau | Python | SQL | Excel  
 
 ---
 
