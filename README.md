@@ -71,7 +71,7 @@ The dashboard is built on a standard **Superstore Sales Dataset**, including:
 ---
 
 ## 📷 Dashboard Preview
-<img width="2489" height="1046" alt="Home Dashboard" src="https://github.com/Mohamed-Nofal-DataAnalysis/Tableau-Sales-Performance-Dashboard/blob/main/Sales%20Dashboar" />
+<img width="2489" height="1046" alt="Home Dashboard" src="https://github.com/Mohamed-Nofal-DataAnalysis/Tableau-Sales-Performance-Dashboard/blob/main/Sales%20Dashboard.png" />
 
 ---
 
